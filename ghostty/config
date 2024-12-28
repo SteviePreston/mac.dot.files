@@ -1,0 +1,42 @@
+# Ghostty config
+
+# Theme
+theme = Apple System Colors
+
+# Window
+window-padding-x = 5
+window-padding-y = 5
+
+# Background
+background-opacity = 0.8
+background-blur-radius = 25
+background = #1e1e1e
+selection-background = #3f638b
+selection-foreground = #ffffff
+palette = 0=#1a1a1a
+palette = 1=#cc372e
+palette = 2=#26a439
+palette = 3=#cdac08
+palette = 4=#0869cb
+palette = 5=#9647bf
+palette = 6=#479ec2
+palette = 7=#98989d
+palette = 8=#464646
+palette = 9=#ff453a
+palette = 10=#32d74b
+palette = 11=#ffd60a
+palette = 12=#0a84ff
+palette = 13=#bf5af2
+palette = 14=#76d6ff
+palette = 15=#ffffff
+
+# Font
+font-family = Hack Nerd Font
+font-style = Regular
+font-size = 18
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
+cursor-color = #98989d
+  
